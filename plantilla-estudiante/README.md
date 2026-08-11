@@ -1,14 +1,13 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- tu nombre completo -->
+**Nombre:** <!-- Jose Alejandro Lopez Puerta -->
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- @tuusuario -->
+**Usuario de GitHub:** <!-- joselopez67221 -->
 
 ## Sobre mí
 
-<!-- Dos o tres líneas: qué te interesa de la programación web, qué juego te
-     gustaría construir si pudieras elegir, con qué lenguajes ya trabajaste. -->
+<!-- Me gusta mucho la creacion de paginas web es algo que me relaja un montón, siempre he tenido juegos en mente hay uno en especifico que siempre me ronda la cabeza que sea acerca de aprender a programar, he trabajado java, python y HTML/CSS/JS. -->
 
 ## Progreso de la campaña
 
