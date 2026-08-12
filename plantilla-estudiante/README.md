@@ -1,20 +1,19 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- tu nombre completo -->
+**Nombre:** <!-- Jose Alejandro Lopez Puerta -->
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- @tuusuario -->
+**Usuario de GitHub:** <!-- joselopez67221 -->
 
 ## Sobre mí
 
-<!-- Dos o tres líneas: qué te interesa de la programación web, qué juego te
-     gustaría construir si pudieras elegir, con qué lenguajes ya trabajaste. -->
+<!-- Me gusta mucho la creacion de paginas web es algo que me relaja un montón, siempre he tenido juegos en mente hay uno en especifico que siempre me ronda la cabeza que sea acerca de aprender a programar, he trabajado java, python y HTML/CSS/JS. -->
 
 ## Progreso de la campaña
 
 | # | Misión | Estado | XP | Repositorio | Jugar |
 |---|---|---|---|---|---|
-| 00 | Registro de jugador | ⬜ | /25 | [código](./practica-00-registro) | — |
+| 00 | Registro de jugador | ✅ | /25 | [código](./practica-00-registro) | — |
 | 01 | Ficha de personaje | ⬜ | /100 | [código](./practica-01-ficha) | — |
 | 02 | Tablero adaptable | ⬜ | /100 | [código](./practica-02-tablero) | — |
 | 03 | Juego de memoria | ⬜ | /100 | [código](./practica-03-memoria) | — |
@@ -34,5 +33,4 @@
 
 ## Bitácora
 
-<!-- Opcional pero recomendado: una línea por semana sobre qué aprendiste o
-     qué te costó. Al final del semestre es sorprendentemente valioso releerla. -->
+<!-- Pues hasta el momento aprendí que github es mas complejo de lo que parece y con él conocí el odio en toda la extencíon de la palabra; ah y a crear un repositorio, clonarlo en mi computadora, crear una rama, editar dicha rama y por ultimo hacer pull request, fue cansino y tedioso ya que no tenia el más minimo de los conocimientos acerca del manejo de git, pero sé que será sumamente imortante en mi formacion laboral y estudiantil, buenas tardes y Dios los ampare en su infita gloria. -->
